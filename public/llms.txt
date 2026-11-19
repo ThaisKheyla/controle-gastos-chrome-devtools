@@ -1,0 +1,14 @@
+# Controle de gastos
+
+> Aplicativo local para registrar despesas, acompanhar o total e salvar os dados no navegador.
+
+## Funcionalidades
+
+- Cadastro de gasto com descrição, valor e categoria.
+- Resumo automático do total e da quantidade de lançamentos.
+- Exclusão de gastos e persistência no navegador.
+
+## Links
+
+- [Aplicação](http://localhost:5173/)
+- [Manifesto ARD](http://localhost:5173/.well-known/ard.json)

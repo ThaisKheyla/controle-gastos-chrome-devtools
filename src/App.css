@@ -252,6 +252,10 @@
   background: var(--accent-soft);
 }
 
+.resumo__item--total dt {
+  color: var(--text);
+}
+
 .resumo__item--total dd {
   color: var(--accent);
   font-size: 1.75rem;

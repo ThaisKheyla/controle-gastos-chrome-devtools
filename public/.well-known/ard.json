@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:localhost:controle-gastos",
+      "displayName": "Controle de gastos",
+      "type": "application/agent-skills+md",
+      "url": "http://localhost:5173/llms.txt",
+      "description": "Aplicativo local para registrar despesas e acompanhar o total.",
+      "representativeQueries": [
+        "como registro um gasto no controle de gastos",
+        "qual é o total dos meus gastos"
+      ]
+    }
+  ]
+}
